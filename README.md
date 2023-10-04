@@ -8,6 +8,7 @@
 |生息地|北海道 札幌市付近|
 |Qiita|[@masaki_a](https://qiita.com/masaki_a)|
 |英語力|これまでとった最高はTOEIC830点|
+|資格|ITパスポート、英検2級、普通自動車免許、Microsoft Office Specialist Excel 365 & 2019|																
 
 ## 概要
 
