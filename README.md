@@ -40,11 +40,11 @@ VPC | S3 | API Gateway | ELB | EC2 | ECS | Fargate | Route53 | IAM | RDS(MySQL|P
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions
+GitHub | GitHub Actions | GitLab
 
 ### その他
 
-Terraform |Docker | Jenkins | nginx | Apache | Gulp | SASS 
+Terraform |Docker | Jenkins | nginx | Apache | Gulp | SASS | Slack | JIRA | Teams | Confluence | Redmine | Backlog
 
 ## バリューを発揮しやすい業務
 
