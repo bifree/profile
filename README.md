@@ -57,4 +57,5 @@ Terraform |Docker | Jenkins | nginx | Apache | Gulp | SASS
 
 ## 主な業務経歴
 
-### 
+### 大手SIerにてアパレル企業のシステムインフラ構築・修正・管理
+### 自社開発企業にて不動産会社向けシステムの修正・テスト
