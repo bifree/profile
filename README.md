@@ -40,7 +40,7 @@ VPC | S3 | API Gateway | ELB | EC2 | ECS | Fargate | Route53 | IAM | RDS(MySQL|P
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | GitLab
+GitHub | GitHub Actions | GitLab | Datadog
 
 ### その他
 
